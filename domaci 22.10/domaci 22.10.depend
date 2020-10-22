@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603388399 source:c:\users\laki\desktop\gitjova\domaci\domaci 22.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
