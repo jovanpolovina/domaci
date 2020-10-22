@@ -50,7 +50,7 @@ fclose(f2);
 int main()
 {
     //zad1
-    malaUVelikja()
+    malaUVelikja();
     //zad2
 Pizza();
     return 0;
