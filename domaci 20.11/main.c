@@ -13,6 +13,7 @@ novo->a = a;
 if(head==NULL){
     *head = novo;
     (*head)->next = NULL;
+    return;
 }
 novo->next = *head;
 *head = novo;
@@ -53,6 +54,7 @@ int main()
 dodajElement(1, &head);
 dodajElement(2, &head);
 dodajElement(3, &head);
+dodajElement(6, &head);
 dodajElement(4, &head);
 dodajElement(5, &head);
 printf("Velicina liste je: %i", velicinaListe(head));
