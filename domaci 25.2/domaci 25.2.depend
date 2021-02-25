@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614277848 source:c:\users\laki\desktop\gitjova\domaci\domaci 25.2\main.cpp
+	<iostream>
+	"Auto.h"
+	"XnaY.h"
+
+1614277704 c:\users\laki\desktop\gitjova\domaci\domaci 25.2\auto.h
+
+1614277810 c:\users\laki\desktop\gitjova\domaci\domaci 25.2\xnay.h
+	<math.h>
+
