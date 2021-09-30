@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629220050 source:c:\users\laki\desktop\gitjova\domaci\vezba\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
